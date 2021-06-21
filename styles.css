@@ -1,7 +1,7 @@
-html{
+/* html{
     padding: 0;
     margin: 0;
-}
+} */
 .welcome{
     /* width: 1920px; */
     color: white;
@@ -39,11 +39,24 @@ html{
     padding-top: 105px;
     padding-bottom: 35px;
 }
-#what{
+h3{
     text-align: center;
 }
-#cap3{
-    margin-right: 40px;
+.row-1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.row-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 .contact-us{
     /* padding-top: 300px ; */
@@ -52,3 +65,4 @@ html{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
