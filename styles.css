@@ -90,3 +90,19 @@ h3{
 .bottom{
     text-align: center;
 }
+
+.design-hidden{
+    display: none;
+    max-width: 500px;
+    text-align: center;
+}
+.development-hidden{
+    display: none;
+    max-width: 500px;
+    text-align: center;
+}
+.product-hidden{
+    display: none;
+    max-width: 500px;
+    text-align: center;
+}
