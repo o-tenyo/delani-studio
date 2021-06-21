@@ -1,4 +1,7 @@
-
+html{
+    padding: 0;
+    margin: 0;
+}
 .welcome{
     /* width: 1920px; */
     color: white;
@@ -35,6 +38,12 @@
     color: white;
     padding-top: 105px;
     padding-bottom: 35px;
+}
+#what{
+    text-align: center;
+}
+#cap3{
+    margin-right: 40px;
 }
 .contact-us{
     /* padding-top: 300px ; */
