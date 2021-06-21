@@ -64,5 +64,19 @@ h3{
     background-image: url("/assets/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
 }
-
+#cont{
+    padding-top: 60px;
+}
+.row{
+    padding-top: 20px;
+    padding-right: 150px;
+    padding-left: 150px;
+    opacity: 10%;
+}
+.form-group{
+    padding-right: 150px;
+    padding-left: 170px;
+    opacity: 10%;
+}
