@@ -109,7 +109,7 @@ h3{
     color: white;
     position: absolute;
     top: 2050px;
-    right: 130px;
+    left: 1080px;
     border: white solid 5px;
     height: 250px;
     width: 300px;
@@ -125,4 +125,9 @@ h3{
     position: absolute;
     top: 40px;
     left: 16px;
+}
+form{
+
+    opacity: 70%;
+    /* color: white; */
 }
