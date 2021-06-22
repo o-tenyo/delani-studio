@@ -106,3 +106,22 @@ h3{
     max-width: 500px;
     text-align: center;
 }
+.work8{
+    color: white;
+    position: absolute;
+    top: 2050px;
+    right: 130px;
+    border: white solid 5px;
+    height: 250px;
+    width: 300px;
+}
+.work8-1{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.work8-2{
+    position: absolute;
+    top: 40px;
+    left: 16px;
+}
